@@ -12,8 +12,13 @@ From Experiment 2
 I did not get mapReduce to work.
 ![img_1.png](Screenshots/img_1.png)
 
-Here is my additional operation
-![img.png](Screenshots/img5.png)
 
-I could not get mapReduce to work. This is how it looks in my terminal when trying to run the command.
-![img.png](Screenshots/img4.png)
+MapReduce example:
+![img.png](Screenshots/img7.png)
+
+![img.png](Screenshots/img8.png)
+
+My mapReduce operation
+![img.png](Screenshots/img9.png)
+
+The operation here is useful as it shows how many times an item has been ordered.
